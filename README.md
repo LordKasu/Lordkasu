@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kasu</h1>
-<h3 align="center">AI Engineer | Cybersecurity & Networking Enthusiast</h3>
+<h3 align="center">Software Engineer | Cybersecurity  Enthusiast</h3>
 
 - 🔭 I’m currently working on **ChainChama**
 
